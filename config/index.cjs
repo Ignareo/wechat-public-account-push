@@ -1,6 +1,6 @@
 {
-  "APP_ID": "wx04da0eea8f0cfe8c",
-  "APP_SECRET": "e92ed058e8d6a3867f494bf0dfc332d7",
+  "APP_ID": 'wx04da0eea8f0cfe8c',
+  "APP_SECRET": 'e92ed058e8d6a3867f494bf0dfc332d7',
   "IS_SHOW_COLOR": true,
   "CALLBACK_TEMPLATE_ID": "pGlOSdSNiFxMVv9Axh4xLOPQnudtW48PJGVle8TiZC0",
   "CALLBACK_USERS": [{ "name": "自己", "id": "ohK9R7LvSYtgDFpesJd9c1zd7REs" }],
